@@ -1,0 +1,5 @@
+官方源：https://registry.npmjs.org/
+镜像源：https://registry.npmmirror.com
+
+查看源：npm config get registry
+设置源：npm config set registry=
